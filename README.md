@@ -6,10 +6,10 @@
 - 🥅 2023 Goals: Work as per my maximum potential with consistency.
 - 🎮 I follow Football, F1, Cricket, and Tennis.
 - 🔍 Actively Looking for 2023 Internships.
-- Email: devarshpatel2605@gmail.com 
+- 📧 devarshpatel2605@gmail.com 
 
 ---
-My CERTIFICATES/ACHIEVEMENTS are available [here](https://github.com/Devarsh26/Certificates)
+📂 Certificates/Achievements [here](https://github.com/Devarsh26/Certificates)
 
 ---
 ### 📝 Research Papers
