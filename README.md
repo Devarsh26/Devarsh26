@@ -1,12 +1,14 @@
 ## Hi there, I'm Devarsh 👋
 
 ### I'm a Student and Coder!
-- 📖 Pursuing Masters of Science in Information Management.
+- 📖 Pursuing Masters of Science in Information Management @ University of Washington, Seattle
 - 👷 Bachelors in Information Technology
-- 🌱 Learning how to learn 😂
-- 🥅 2023 Goals: Work as per my maximum potential with consistency.
+- 🌱 Learning how to constantly learn & grow
 - 🎮 I follow Football, F1, Cricket, and Tennis.
-- 🔍 Actively Looking for Summer 2024 Internships.
+  
+
+- ⩤ Data Engineer / Data Analyst / Data Scientist
+- 🔍 Actively Looking for Full-time opportunies in United States.
 - 📧 devarshpatel2605@gmail.com 
 
 ---
@@ -15,6 +17,7 @@
 ---
 ### 📝 Research Papers
 - [Survey on Hinglish to English Translation and Classification Techniques](https://ijritcc.org/index.php/ijritcc/article/view/7840)
+- [Clinical Feasibility of Artificial Intelligence-Based Autosegmentation of the Left Anterior Descending Artery in Radiotherapy for Breast Cancer](https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0044-1780510)
 - [Blockchain for Challenges of Logistics and Supply Chain Information System](https://ieeexplore.ieee.org/document/10037294/)
 - [Automatic Twitter Rumour Detection using Machine Learning](https://ieeexplore.ieee.org/document/10037317/)
 
